@@ -283,6 +283,7 @@ return 'Nile River';
 }
 
 /* Step 21
+<<<<<<< HEAD
 *
 * Define a function named "addNumbers"
 * that returns the sum of two numbers
@@ -699,9 +700,6 @@ var isWatered = false;
 *  rob
 *
 */
-
-
-
 
 /**
 * Define a Classes
